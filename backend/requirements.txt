@@ -1,0 +1,14 @@
+# QuantumCoach API Backend Dependencies
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Data Validation
+pydantic>=2.5.0
+
+# CORS
+python-multipart>=0.0.6
+
+# For development
+httpx>=0.26.0
