@@ -5,7 +5,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     // --- Configuration ---
-    const API_BASE_URL = 'http://localhost:8000';  // Python backend
+    const API_BASE_URL = 'https://quantumfront.onrender.com';  // Python backend
 
     // --- State Management ---
     let currentOnboardingSlide = 0;
